@@ -1,2 +1,4 @@
 # escape-zombie-s-city
-ゾンビから逃げるゲーム.Unityで制作途中!mac版を公開中です.
+ゾンビから逃げるゲーム.Unityで制作途中!
+ver1です↓
+https://unityroom.com/games/eacape_zombie_kaichan
